@@ -4,7 +4,7 @@
 		"label": "Student",
 		"picture": "https://user-images.githubusercontent.com/88236389/128508950-eac68891-8463-4a3c-ade8-9b5b0cdd1d92.jpg",
 		"email": "2020kucp1036@iiitkota.ac.in",
-		"summary": "I am Student of Indian Institute of Information Technology, Kota (Rajasthan-India). Currently (2020-2024) pursuing my Bachelors of Technology (BTech.) in 'Computer Science & Engineering', I am a keen learner and have interest in Tech related stuffs.",
+		"summary": "I am Student of Indian Institute of Information Technology, Kota (Rajasthan-India). Currently (2020-2024) pursuing my Bachelor of Technology (BTech.) in 'Computer Science & Engineering', I am keen learner and have curiosity in Tech related stuffs.",
 		"location": {
 			"city": "Jaipur",
 			"countryCode": "India",
@@ -28,17 +28,19 @@
 			}
 		]
 	},
-	"education": [{
-		"institution": "Indian Institute of Information technology, kota",
+	"education": [
+		{
+		"School": "Kendriya Vidyalaya No. 1, Jaipur"
+	},
+		{
+		"institution": "Indian Institute of Information Technology, Kota",
 		"area": "Engineering / Technology",
 		"studyType": "Bachelor of ",
-		"courses": [
-			"Computer Science & Engineering"
-		]
+		"courses": ["Computer Science & Engineering"]
 	}],
 	"skills": [{
 		"level": "Intermidiate",
-		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Python"]
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Python", "php", "MySQL"]
 	}],
 	"interests": [{
 		"name": "Sports",
