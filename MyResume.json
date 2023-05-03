@@ -35,6 +35,12 @@
 	    	"startDate": "December, 2020",
 		"endDate": "June, 2024",
 		"courses": ["Computer Science & Engineering"]
+	},
+     {
+	     	"institution": "Kendriya Vidyalaya No.1, Jaipur
+	     	"area": "Science & Maths"
+	     	"startDate": "April, 2008",
+	     	"endDate": "April, 2020"
 	}],
 	"skills":
     [{
