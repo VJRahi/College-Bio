@@ -32,6 +32,8 @@
 		"institution": "Indian Institute of Information Technology, Kota",
 		"area": "Technology, CSE",
 		"studyType": "Bachelor of ",
+	    	"startDate": "December, 2020",
+		"endDate": "June, 2024",
 		"courses": ["Computer Science & Engineering"]
 	}],
 	"skills":
