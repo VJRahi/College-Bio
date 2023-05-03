@@ -1,38 +1,57 @@
 {
-	"basics": {
+	"basics":
+    {
 		"name": "Vandan Jai Rahi",
 		"label": "Student",
 		"picture": "https://user-images.githubusercontent.com/88236389/128508950-eac68891-8463-4a3c-ade8-9b5b0cdd1d92.jpg",
-		"email": "2020kucp1036@iiitkota.ac.in",
-		"summary": "I am Student of Indian Institute of Information Technology, Kota (Rajasthan-India). Currently (2020-2024) pursuing my Bachelor of Technology (BTech.) in 'Computer Science & Engineering', I am keen learner and have curiosity in Tech related stuffs.",
-		"location": {
+		"email": ["2020kucp1036@iiitkota.ac.in", "vandanjairahi2111@gmail.com"],
+		"summary": "I am Student of Indian Institute of Information Technology, Kota (Rajasthan-India). Currently (2020-2024) pursuing my Bachelor of Technology in 'Computer Science & Engineering', I am keen learner and have curiosity in Tech related stuffs.",
+		"location":
+        {
 			"city": "Jaipur",
 			"countryCode": "India",
 			"region": "Rajasthan"
 		},
-		"profiles": [
+		"profiles":
+        [
 			{
 				"network": "Github",
 				"username": "VJRahi",
 				"url": "https://www.github.com/VJRahi/"
 			},
-			{
+            {
 				"network": "Instagram",
 				"username": "vandanjairahi",
 				"url": "https://instagram.com/vandanjairahi"
 			}
 		]
 	},
-	"education": [{
+	"education":
+    [{
 		"institution": "Indian Institute of Information Technology, Kota",
-		"area": "Engineering / Technology",
+		"area": "Technology",
 		"studyType": "Bachelor of ",
 		"courses": ["Computer Science & Engineering"]
-	}],
-	"skills": [{
+	},
+    {
+        "institution": "Kendriya Vidyalaya No.1, Jaipur",
+        "area": "Science & Maths"
+    }],
+	"skills":
+    [{
 		"level": "Intermidiate",
-		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Python", "php", "MySQL"]
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Python", "MySQL"]
 	}],
+    "projects":
+    [{
+        "topic": "Traffic Speed Prediction Model Using Graph Neural Network"
+    },
+    {
+        "topic": "Soil Nutrients Analysis Using Hyperspectral Image Processing and Performance Analysis of Regression model and Ensemble Learning Technique"
+    },
+    {
+        "topic": "Classification of Alzheimer's Brain MRI Images Using Various Ensemble Learning Techniques"
+    }],
 	"interests": [{
 		"name": "Sports",
 		"keywords": ["Chess", "Badminton", "Shooting"]
