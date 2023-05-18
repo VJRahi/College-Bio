@@ -13,20 +13,6 @@
 			"countryCode": "India",
 			"region": "Rajasthan"
 		},
-		"profiles":
-        [
-			{
-				"network": "Github",
-				"username": "VJRahi",
-				"url": "https://www.github.com/VJRahi/"
-			},
-            {
-				"network": "Instagram",
-				"username": "vandanjairahi",
-				"url": "https://instagram.com/vandanjairahi"
-			}
-		]
-	},
 	"education":
     [{
 		"institution": "Indian Institute of Information Technology, Kota",
