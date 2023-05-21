@@ -12,20 +12,7 @@
 			"city": "Jaipur",
 			"countryCode": "India",
 			"region": "Rajasthan"
-		},
-        "profiles":
-        [
-            {
-                "network": "Github",
-                "username": "VJRahi",
-                "url": "https://github.com/VJRahi"
-            },
-            {
-                "network": "Instagram",
-                "username": "vandanjairahi",
-                "url": "https://www.instagram.com/vandanjairahi/"
-            }
-        ]
+		}
     },
     "education":
     [
